@@ -1,0 +1,159 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2020-04-09 14:46:07
+ * @version $Id$
+ */
+img {
+		width: 160px;
+		height: 200px;
+		border: none;
+   		vertical-align: middle;
+   		border: 0;
+	}
+	.header{
+		background-color: #8b979f;
+		height: 200px;
+		width: 1400px;
+		margin: auto;
+		font-size: 10px;
+	}
+	.info{
+		display: inline-block;
+		height: 200px;
+		text-align: center;
+		vertical-align: top;
+	}
+	.header .info a{	
+		width: 100px;
+		text-decoration: none;
+		outline: none;
+		display: inline-block;
+		font-size: 20px;
+		color: #fff;
+		margin: 50px;
+		border-radius: 0px;
+	}
+	.nav a:hover{
+		background-color: #4489b5;
+	}
+
+	h1{
+		color: #fff;
+		font-family: '华文仿宋';
+		font-size: 35px;
+		height: 50px;
+	}
+	.title{
+		margin-top: 30px;
+		width: 700px;
+		height: 80px;
+	}
+
+	.introduce{
+		display: inline-block;
+		width: 500px;
+		height: 200px;
+		vertical-align: top;
+		margin: 0;
+	}
+	.header .introduce .email p{
+		color: #fff;
+		font-size: 16px;
+		height: 25px;
+		margin-top: 50px;
+		margin-left: 90px;
+	}
+	.header .introduce .weibo p{
+		color: #fff;
+		font-size: 16px;
+		height: 25px;
+		margin-left: 90px;
+	
+	}
+	.header .introduce .address p{
+		color: #fff;
+		font-size: 16px;
+		height: 25px;
+		margin-left: 90px;
+		
+	}
+	.top {
+		width: 1300px;
+		height: 30px;
+    	line-height: 30px;
+    	margin-left: 0px;
+    	border-bottom: 1px solid #c1c7cb
+	}
+	.top img{
+		width: 30px;
+		height: 30px;
+		border: none;
+   		vertical-align: middle;
+   		border: 0;
+	}
+	.top input{
+		
+		width: 150px;
+    	height: 30px;
+    	line-height: 27px;
+    	background: #c1c7cb;
+    	color: #fff;
+    	border: none;
+    	font-size: 14px;
+    	margin-top: 0px;
+    	vertical-align: middle;
+	}
+	.txt p{
+		text-indent: 2em;
+		font-family: '楷体';
+		line-height: 40px;
+		margin:15px 200px 15px 200px;
+		font-size: 18px;
+	}
+	.txt h2{
+		text-align: center;
+		font-family: '华文仿宋';
+	}
+	.txt li{
+		margin-left: 200px; 
+		padding-top: 30px;
+		text-align: left;
+		font-family: '微软雅黑';
+		font-size: 20px;
+	}
+	.footer{
+		    min-width: 1200px;
+   	 		margin: auto;
+   	 		height: 40px;
+   	 		background: #5a6f7c;
+   	 		border: 1px dotted #1b4389;
+	}
+	.footer .fl p{
+		color: #fff;
+		margin-left: 500px; 
+	}
+	.txt3 p{
+		width: 800px;
+		text-indent: 2em;
+		font-family: '楷体';
+		line-height: 40px;
+		margin:15px 200px 15px 200px;
+		text-align: right;
+		font-size: 18px;
+	}
+	.txt3 img{
+		width: 217px;
+    	height: 300px;
+	}
+	.txt3 h2{
+		text-align: center;
+		font-family: '华文仿宋';
+		margin:15px 200px 15px 200px;
+	}
+	.txt3 h3{
+		width: 850px;
+		text-align: center;
+		margin:15px 200px 15px 200px;
+	}
